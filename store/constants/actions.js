@@ -1,0 +1,6 @@
+export const START = 'START'
+export const STOP = 'STOP'
+export const RESET = 'RESET'
+export const CHANGE_TIME = 'CHANGE_TIME'
+export const ADD_HISTORY = 'ADD_HISTORY'
+export const RESET_HISTORY = 'RESET_HISTORY'
